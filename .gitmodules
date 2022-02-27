@@ -1,0 +1,3 @@
+[submodule "configuration"]
+	path = configuration
+	url = /home/mustapha/Desktop/musty/FlexiSaf/spring_boot/centralize_configuration/configuration
